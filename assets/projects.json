@@ -1,0 +1,925 @@
+[
+  {
+    "id": "p001",
+    "title": "Netanya Municipal Theatre and Cultural Centre",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/caf3e481e89069c7.webp",
+    "images": [
+      "assets/projects/caf3e481e89069c7.webp",
+      "assets/projects/df8433e554030ec8.webp",
+      "assets/projects/1372423a000af61e.webp",
+      "assets/projects/9c37c69a8ed14d16.webp",
+      "assets/projects/4b97eec659df512e.webp",
+      "assets/projects/d9b7fa7983755b49.webp",
+      "assets/projects/40641864442354fa.webp",
+      "assets/projects/678517a528168f29.webp",
+      "assets/projects/681adf026c1256e0.webp"
+    ],
+    "slides": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "firstSlide": 4
+  },
+  {
+    "id": "p002",
+    "title": "Yzhak Rabin High School, Modiin",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/1389b392e5342f5d.webp",
+    "images": [
+      "assets/projects/1389b392e5342f5d.webp",
+      "assets/projects/46fb6f39539ed76a.webp",
+      "assets/projects/690b54a8c6ea562a.webp",
+      "assets/projects/6f609f4abc7def48.webp",
+      "assets/projects/d127cdd6ab44dab0.webp",
+      "assets/projects/9c19d01c3185e832.webp",
+      "assets/projects/67e8871433915b67.webp",
+      "assets/projects/1624a972133d1599.webp"
+    ],
+    "slides": [
+      8,
+      10,
+      11
+    ],
+    "firstSlide": 8
+  },
+  {
+    "id": "p003",
+    "title": "Modiin City Educational, Cultural & Sport Center",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/e7c5b72b8cd85a47.webp",
+    "images": [
+      "assets/projects/e7c5b72b8cd85a47.webp"
+    ],
+    "slides": [
+      9
+    ],
+    "firstSlide": 9
+  },
+  {
+    "id": "p004",
+    "title": "Ramot Sapir High School, Beer Sheba",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/631ca913459f200c.webp",
+    "images": [
+      "assets/projects/631ca913459f200c.webp",
+      "assets/projects/bb81c697ff947cee.webp",
+      "assets/projects/3722bbe0a2520185.webp",
+      "assets/projects/970fd4573a25b6b1.webp",
+      "assets/projects/798c5cbdac4d4487.webp",
+      "assets/projects/7cce3dfe6276b3bf.webp"
+    ],
+    "slides": [
+      12,
+      13
+    ],
+    "firstSlide": 12
+  },
+  {
+    "id": "p005",
+    "title": "Kidmat Habama Theater, Modiin",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/9550918a36e56131.webp",
+    "images": [
+      "assets/projects/9550918a36e56131.webp",
+      "assets/projects/16bf4545bef385a6.webp",
+      "assets/projects/9ab7e1b048c0247e.webp",
+      "assets/projects/e27c3c3eee64ec6a.webp"
+    ],
+    "slides": [
+      14
+    ],
+    "firstSlide": 14
+  },
+  {
+    "id": "p006",
+    "title": "City Mediatech, Modiin",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/9b659daba94c1fa6.webp",
+    "images": [
+      "assets/projects/9b659daba94c1fa6.webp",
+      "assets/projects/218a5b64f3b24d84.webp"
+    ],
+    "slides": [
+      15
+    ],
+    "firstSlide": 15
+  },
+  {
+    "id": "p007",
+    "title": "Public Sport’s Club, Modiin",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/74320377973c0bf3.webp",
+    "images": [
+      "assets/projects/74320377973c0bf3.webp",
+      "assets/projects/5bd9a5efdbb36ea2.webp",
+      "assets/projects/cb70fb40c29d991b.webp"
+    ],
+    "slides": [
+      16
+    ],
+    "firstSlide": 16
+  },
+  {
+    "id": "p008",
+    "title": "Neve Oz Sports Club, Petah Tikva",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/de584c7282ba30db.webp",
+    "images": [
+      "assets/projects/de584c7282ba30db.webp",
+      "assets/projects/3ffd347eeced8bae.webp",
+      "assets/projects/864e2e70ea1b6ab1.webp",
+      "assets/projects/f72f1e3d52ec7f0c.webp"
+    ],
+    "slides": [
+      17
+    ],
+    "firstSlide": 17
+  },
+  {
+    "id": "p009",
+    "title": "Civic Center, Hoshida, Osaka, Japan",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/f4d561bba4a4de86.webp",
+    "images": [
+      "assets/projects/f4d561bba4a4de86.webp",
+      "assets/projects/59ef6751ae3c68dd.webp",
+      "assets/projects/289b83ecfa13bfcd.webp",
+      "assets/projects/6426b7ccbad2f254.webp"
+    ],
+    "slides": [
+      18
+    ],
+    "firstSlide": 18
+  },
+  {
+    "id": "p010",
+    "title": "Senior Citizens Home, Ramat Hasharon",
+    "category": "public",
+    "categoryLabel": "Public buildings",
+    "cover": "assets/projects/2da704b67f851854.webp",
+    "images": [
+      "assets/projects/2da704b67f851854.webp",
+      "assets/projects/5833e6059f00f19a.webp",
+      "assets/projects/d036065a9afd8074.webp",
+      "assets/projects/fc2ee164e608b0dd.webp",
+      "assets/projects/79f7c55618b2cc02.webp"
+    ],
+    "slides": [
+      19
+    ],
+    "firstSlide": 19
+  },
+  {
+    "id": "p011",
+    "title": "Sea View, Netanya, Israel",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/dc948049caa9e676.webp",
+    "images": [
+      "assets/projects/dc948049caa9e676.webp",
+      "assets/projects/ea676ab540e1bb5e.webp"
+    ],
+    "slides": [
+      21,
+      22
+    ],
+    "firstSlide": 21
+  },
+  {
+    "id": "p012",
+    "title": "Neve Oz, Netanya, Israel",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/959bedab90da0abd.webp",
+    "images": [
+      "assets/projects/959bedab90da0abd.webp"
+    ],
+    "slides": [
+      23
+    ],
+    "firstSlide": 23
+  },
+  {
+    "id": "p013",
+    "title": "Sea Shore, Netanya, Israel",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/0bee4e2173eacf8d.webp",
+    "images": [
+      "assets/projects/0bee4e2173eacf8d.webp",
+      "assets/projects/0832e9e670b638d0.webp",
+      "assets/projects/80d3e5a05f2ddba2.webp",
+      "assets/projects/6275446563a614b5.webp",
+      "assets/projects/446402848d4dfeef.webp"
+    ],
+    "slides": [
+      27,
+      29
+    ],
+    "firstSlide": 27
+  },
+  {
+    "id": "p014",
+    "title": "Hoshida Neighborhood, Osaka, Japan",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/6ad2da985a2cb7a6.webp",
+    "images": [
+      "assets/projects/6ad2da985a2cb7a6.webp",
+      "assets/projects/abcfe12bac337e71.webp",
+      "assets/projects/3558a93180d528b9.webp",
+      "assets/projects/ec51e23e38fc3054.webp",
+      "assets/projects/bffe66670fd70170.webp",
+      "assets/projects/1c64d9bc97f07819.webp"
+    ],
+    "slides": [
+      30,
+      31
+    ],
+    "firstSlide": 30
+  },
+  {
+    "id": "p015",
+    "title": "Urban Rehabilitation ASHKELON",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/8907706b5dab635a.webp",
+    "images": [
+      "assets/projects/8907706b5dab635a.webp",
+      "assets/projects/e34180eac50ff817.webp",
+      "assets/projects/132b9e023a33ba46.webp"
+    ],
+    "slides": [
+      32,
+      33,
+      34
+    ],
+    "firstSlide": 32
+  },
+  {
+    "id": "p016",
+    "title": "Em Hamoshavot, Petah Tikva, Israel",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/c833aba9d41a6d99.webp",
+    "images": [
+      "assets/projects/c833aba9d41a6d99.webp",
+      "assets/projects/11b660c573cca3cb.webp",
+      "assets/projects/7c85ddd7473e7236.webp"
+    ],
+    "slides": [
+      35
+    ],
+    "firstSlide": 35
+  },
+  {
+    "id": "p017",
+    "title": "Yahud, Israel",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/a9ca39ab6a85533d.webp",
+    "images": [
+      "assets/projects/a9ca39ab6a85533d.webp"
+    ],
+    "slides": [
+      36
+    ],
+    "firstSlide": 36
+  },
+  {
+    "id": "p018",
+    "title": "Emeq Braha 40 Tel Aviv",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/bea2df172b724cbd.webp",
+    "images": [
+      "assets/projects/bea2df172b724cbd.webp"
+    ],
+    "slides": [
+      37
+    ],
+    "firstSlide": 37
+  },
+  {
+    "id": "p019",
+    "title": "Nehama 15, Rishon leTzion",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/c64d94a73b5733a6.webp",
+    "images": [
+      "assets/projects/c64d94a73b5733a6.webp"
+    ],
+    "slides": [
+      38
+    ],
+    "firstSlide": 38
+  },
+  {
+    "id": "p020",
+    "title": "Petah Tikva, Urban Rehabilitation",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/96c8fa92ec02a7d6.webp",
+    "images": [
+      "assets/projects/96c8fa92ec02a7d6.webp"
+    ],
+    "slides": [
+      39
+    ],
+    "firstSlide": 39
+  },
+  {
+    "id": "p021",
+    "title": "Migdalei Herzel, Rehovot",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/f8e6d05b897b0d3a.webp",
+    "images": [
+      "assets/projects/f8e6d05b897b0d3a.webp"
+    ],
+    "slides": [
+      40
+    ],
+    "firstSlide": 40
+  },
+  {
+    "id": "p022",
+    "title": "TAMA 38. Herzlya",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/fd2e7401a96b3aa6.webp",
+    "images": [
+      "assets/projects/fd2e7401a96b3aa6.webp"
+    ],
+    "slides": [
+      41
+    ],
+    "firstSlide": 41
+  },
+  {
+    "id": "p023",
+    "title": "Pninat Shaul, Ashkelon, Israel",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/606a066f622c204f.webp",
+    "images": [
+      "assets/projects/606a066f622c204f.webp"
+    ],
+    "slides": [
+      42
+    ],
+    "firstSlide": 42
+  },
+  {
+    "id": "p024",
+    "title": "Yir HaYain Ashkelon",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/cdf8cd26d93ec09d.webp",
+    "images": [
+      "assets/projects/cdf8cd26d93ec09d.webp"
+    ],
+    "slides": [
+      43
+    ],
+    "firstSlide": 43
+  },
+  {
+    "id": "p025",
+    "title": "Pinui-Binui Tel Aviv",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/0c074f964e9219e5.webp",
+    "images": [
+      "assets/projects/0c074f964e9219e5.webp",
+      "assets/projects/5d769509ce79b457.webp",
+      "assets/projects/fbe156260f1e71b7.webp",
+      "assets/projects/230876c7a4df4426.webp"
+    ],
+    "slides": [
+      44
+    ],
+    "firstSlide": 44
+  },
+  {
+    "id": "p026",
+    "title": "Azor, Israel",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/47414e7301803dca.webp",
+    "images": [
+      "assets/projects/47414e7301803dca.webp"
+    ],
+    "slides": [
+      45
+    ],
+    "firstSlide": 45
+  },
+  {
+    "id": "p027",
+    "title": "Yir Yamim, Netanya",
+    "category": "residential",
+    "categoryLabel": "Residential",
+    "cover": "assets/projects/451aa3f197016894.webp",
+    "images": [
+      "assets/projects/451aa3f197016894.webp",
+      "assets/projects/3cfddc269620dab8.webp",
+      "assets/projects/9c5ec4d9aeb3c675.webp"
+    ],
+    "slides": [
+      46
+    ],
+    "firstSlide": 46
+  },
+  {
+    "id": "p028",
+    "title": "Modiin-Maccabim-Reut Einav Centre: Commercial, Events & Employment",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/379433c063001356.webp",
+    "images": [
+      "assets/projects/379433c063001356.webp",
+      "assets/projects/fdb07c42546376c9.webp",
+      "assets/projects/95d5056191ad31d3.webp"
+    ],
+    "slides": [
+      48
+    ],
+    "firstSlide": 48
+  },
+  {
+    "id": "p029",
+    "title": "Rami Levy Shivuk HaShikma Modiin",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/379f482a2a1ce76b.webp",
+    "images": [
+      "assets/projects/379f482a2a1ce76b.webp"
+    ],
+    "slides": [
+      49
+    ],
+    "firstSlide": 49
+  },
+  {
+    "id": "p030",
+    "title": "Commercial Centre Nofim Modiin",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/c9dd811c44e86074.webp",
+    "images": [
+      "assets/projects/c9dd811c44e86074.webp"
+    ],
+    "slides": [
+      50
+    ],
+    "firstSlide": 50
+  },
+  {
+    "id": "p031",
+    "title": "Modiin Motors Modiin",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/bc2688f71ffc0f11.webp",
+    "images": [
+      "assets/projects/bc2688f71ffc0f11.webp",
+      "assets/projects/ce816a1a05c9d964.webp",
+      "assets/projects/177c0bd5b04c8ab9.webp",
+      "assets/projects/6c3c9c7a4fbe5950.webp"
+    ],
+    "slides": [
+      51
+    ],
+    "firstSlide": 51
+  },
+  {
+    "id": "p032",
+    "title": "Two Petrol Stations, Modiin",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/22e3dd2793b7657c.webp",
+    "images": [
+      "assets/projects/22e3dd2793b7657c.webp"
+    ],
+    "slides": [
+      52
+    ],
+    "firstSlide": 52
+  },
+  {
+    "id": "p033",
+    "title": "Rami Levy Modiin",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/8b5a4776886581ff.webp",
+    "images": [
+      "assets/projects/8b5a4776886581ff.webp",
+      "assets/projects/5c866b1bdf6b25a4.webp",
+      "assets/projects/6e3e97d896fb5fcc.webp"
+    ],
+    "slides": [
+      53,
+      54,
+      55
+    ],
+    "firstSlide": 53
+  },
+  {
+    "id": "p034",
+    "title": "Mateh Yehuda, Har TUV B",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/73417115175fd2a9.webp",
+    "images": [
+      "assets/projects/73417115175fd2a9.webp",
+      "assets/projects/ce7344f67225b190.webp",
+      "assets/projects/aa4c8f38c62c4cd6.webp"
+    ],
+    "slides": [
+      56,
+      57
+    ],
+    "firstSlide": 56
+  },
+  {
+    "id": "p035",
+    "title": "Beit Shemesh, Har TUV B",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/d8c328297def65a6.webp",
+    "images": [
+      "assets/projects/d8c328297def65a6.webp"
+    ],
+    "slides": [
+      60
+    ],
+    "firstSlide": 60
+  },
+  {
+    "id": "p036",
+    "title": "Eurostandart Logistic Center, Modiin",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/8717f340e9c3aef5.webp",
+    "images": [
+      "assets/projects/8717f340e9c3aef5.webp"
+    ],
+    "slides": [
+      61
+    ],
+    "firstSlide": 61
+  },
+  {
+    "id": "p037",
+    "title": "Commercial Bldg, Moreshet, Modiin",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/19cf08ba286525e2.webp",
+    "images": [
+      "assets/projects/19cf08ba286525e2.webp"
+    ],
+    "slides": [
+      62
+    ],
+    "firstSlide": 62
+  },
+  {
+    "id": "p038",
+    "title": "Modiin, Beit Paz",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/9c689e798e3b0249.webp",
+    "images": [
+      "assets/projects/9c689e798e3b0249.webp"
+    ],
+    "slides": [
+      63
+    ],
+    "firstSlide": 63
+  },
+  {
+    "id": "p039",
+    "title": "Modiin, Israir Headquarters, North",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/69b383d2111b7d25.webp",
+    "images": [
+      "assets/projects/69b383d2111b7d25.webp",
+      "assets/projects/3acc39c740c700ce.webp"
+    ],
+    "slides": [
+      64
+    ],
+    "firstSlide": 64
+  },
+  {
+    "id": "p040",
+    "title": "Modiin, Israir Headquarters, South",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/39c038fcc2e8e2aa.webp",
+    "images": [
+      "assets/projects/39c038fcc2e8e2aa.webp"
+    ],
+    "slides": [
+      65
+    ],
+    "firstSlide": 65
+  },
+  {
+    "id": "p041",
+    "title": "Modiin, 111",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/96e857842419ec8a.webp",
+    "images": [
+      "assets/projects/96e857842419ec8a.webp",
+      "assets/projects/f4a647952f5cad97.webp"
+    ],
+    "slides": [
+      66
+    ],
+    "firstSlide": 66
+  },
+  {
+    "id": "p042",
+    "title": "Pulizer, Hadera",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/36fdb678a39176d8.webp",
+    "images": [
+      "assets/projects/36fdb678a39176d8.webp"
+    ],
+    "slides": [
+      68
+    ],
+    "firstSlide": 68
+  },
+  {
+    "id": "p043",
+    "title": "Tzomet HaMishtara, Hadera",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/7d7da9832e1d78af.webp",
+    "images": [
+      "assets/projects/7d7da9832e1d78af.webp"
+    ],
+    "slides": [
+      69
+    ],
+    "firstSlide": 69
+  },
+  {
+    "id": "p044",
+    "title": "Pinui-Binui Ashkelon",
+    "category": "commercial",
+    "categoryLabel": "Commercial, offices & industry",
+    "cover": "assets/projects/2c54512f0f438f12.webp",
+    "images": [
+      "assets/projects/2c54512f0f438f12.webp"
+    ],
+    "slides": [
+      70
+    ],
+    "firstSlide": 70
+  },
+  {
+    "id": "p045",
+    "title": "Master Plan South-West Rehovot",
+    "category": "planning",
+    "categoryLabel": "Urban planning",
+    "cover": "assets/projects/d39bcc9100eadeba.webp",
+    "images": [
+      "assets/projects/d39bcc9100eadeba.webp"
+    ],
+    "slides": [
+      72
+    ],
+    "firstSlide": 72
+  },
+  {
+    "id": "p046",
+    "title": "Master Plan Lod City Extension",
+    "category": "planning",
+    "categoryLabel": "Urban planning",
+    "cover": "assets/projects/1ed302b8a3276189.webp",
+    "images": [
+      "assets/projects/1ed302b8a3276189.webp"
+    ],
+    "slides": [
+      73
+    ],
+    "firstSlide": 73
+  },
+  {
+    "id": "p047",
+    "title": "Master Plan 7th Borough’ Ashdod",
+    "category": "planning",
+    "categoryLabel": "Urban planning",
+    "cover": "assets/projects/5913f98418c86777.webp",
+    "images": [
+      "assets/projects/5913f98418c86777.webp"
+    ],
+    "slides": [
+      74
+    ],
+    "firstSlide": 74
+  },
+  {
+    "id": "p048",
+    "title": "Comercial & Employment Zone - Moshav Shilat",
+    "category": "planning",
+    "categoryLabel": "Urban planning",
+    "cover": "assets/projects/41b65deeaf45483a.webp",
+    "images": [
+      "assets/projects/41b65deeaf45483a.webp"
+    ],
+    "slides": [
+      75
+    ],
+    "firstSlide": 75
+  },
+  {
+    "id": "p049",
+    "title": "Housing Zone Moshav Shilat",
+    "category": "planning",
+    "categoryLabel": "Urban planning",
+    "cover": "assets/projects/ff444bd3946dc868.webp",
+    "images": [
+      "assets/projects/ff444bd3946dc868.webp"
+    ],
+    "slides": [
+      76
+    ],
+    "firstSlide": 76
+  },
+  {
+    "id": "p050",
+    "title": "OASIS by PROAKTIV, Iasi, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/478d0900a1cd9453.webp",
+    "images": [
+      "assets/projects/478d0900a1cd9453.webp",
+      "assets/projects/c14f7a156fd00c0f.webp",
+      "assets/projects/707630c969fefc99.webp"
+    ],
+    "slides": [
+      78
+    ],
+    "firstSlide": 78
+  },
+  {
+    "id": "p051",
+    "title": "Ghencea Boulevard, Bucharest, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/20fa02cf1c8eb218.webp",
+    "images": [
+      "assets/projects/20fa02cf1c8eb218.webp",
+      "assets/projects/b485f60a0d4c2905.webp"
+    ],
+    "slides": [
+      79,
+      80
+    ],
+    "firstSlide": 79
+  },
+  {
+    "id": "p052",
+    "title": "Afumati Road, Voluntari, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/45efd6d5244c9b6a.webp",
+    "images": [
+      "assets/projects/45efd6d5244c9b6a.webp",
+      "assets/projects/eab7bd75847cbf5b.webp",
+      "assets/projects/b574778235bbfe71.webp",
+      "assets/projects/5e1b92017988adb9.webp",
+      "assets/projects/c8495bef94a75a93.webp"
+    ],
+    "slides": [
+      81,
+      82
+    ],
+    "firstSlide": 81
+  },
+  {
+    "id": "p053",
+    "title": "Commercial Center, Afumati Road, Voluntari, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/59bf0bb1385eafe3.webp",
+    "images": [
+      "assets/projects/59bf0bb1385eafe3.webp"
+    ],
+    "slides": [
+      83
+    ],
+    "firstSlide": 83
+  },
+  {
+    "id": "p054",
+    "title": "Pipera, Voluntari, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/2913df39c251e7e8.webp",
+    "images": [
+      "assets/projects/2913df39c251e7e8.webp",
+      "assets/projects/abd96f6e7f855cb4.webp",
+      "assets/projects/6d34365743f55457.webp"
+    ],
+    "slides": [
+      84
+    ],
+    "firstSlide": 84
+  },
+  {
+    "id": "p055",
+    "title": "Ploiesti, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/69039c4890d9d928.webp",
+    "images": [
+      "assets/projects/69039c4890d9d928.webp"
+    ],
+    "slides": [
+      85
+    ],
+    "firstSlide": 85
+  },
+  {
+    "id": "p056",
+    "title": "Plumbuita Lake, Bucharest, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/b86bb8a53a0aeb8c.webp",
+    "images": [
+      "assets/projects/b86bb8a53a0aeb8c.webp",
+      "assets/projects/3c0b3be8f1d65f1d.webp",
+      "assets/projects/ac879bbf8387bdd5.webp"
+    ],
+    "slides": [
+      86,
+      87,
+      92
+    ],
+    "firstSlide": 86
+  },
+  {
+    "id": "p057",
+    "title": "Plumbuita Lake Bucharest, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/1f9df57dcd6883a3.webp",
+    "images": [
+      "assets/projects/1f9df57dcd6883a3.webp"
+    ],
+    "slides": [
+      88
+    ],
+    "firstSlide": 88
+  },
+  {
+    "id": "p058",
+    "title": "Lobby, Plumbuita Lake, Bucharest, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/afde06286c68ade9.webp",
+    "images": [
+      "assets/projects/afde06286c68ade9.webp",
+      "assets/projects/d3b1ea74a23eac4d.webp"
+    ],
+    "slides": [
+      89,
+      90
+    ],
+    "firstSlide": 89
+  },
+  {
+    "id": "p059",
+    "title": "Living Room, Plumbuita Lake, Bucharest, Romania",
+    "category": "international",
+    "categoryLabel": "International",
+    "cover": "assets/projects/fb7aa71195a5d2ac.webp",
+    "images": [
+      "assets/projects/fb7aa71195a5d2ac.webp"
+    ],
+    "slides": [
+      91
+    ],
+    "firstSlide": 91
+  }
+]

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f3ef">
+  <meta name="description" content="Selected projects by Mark Segal & Dov Joffe, Architects & Town Planners, established in 1990.">
+  <title>Mark Segal & Dov Joffe | Architects & Town Planners</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Mark Segal and Dov Joffe home">
+      <span class="brand-mark">S<span>&</span>J</span>
+      <span class="brand-name"><strong>MARK SEGAL & DOV JOFFE</strong><small>ARCHITECTS & TOWN PLANNERS</small></span>
+    </a>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="#work" data-i18n="navWork">Projects</a>
+      <a href="#about" data-i18n="navAbout">About</a>
+      <a href="#contact" data-i18n="navContact">Contact</a>
+    </nav>
+    <button id="languageToggle" class="lang-toggle" type="button" aria-label="Switch language">עב</button>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-copy">
+        <p class="eyebrow" data-i18n="eyebrow">ARCHITECTURE · TOWN PLANNING · EST. 1990</p>
+        <h1 id="heroTitle" data-i18n="heroTitle">Thoughtful places.<br>Lasting impact.</h1>
+        <p class="hero-intro" data-i18n="heroIntro">Selected work by Mark Segal & Dov Joffe, Architects & Town Planners.</p>
+        <a class="text-link" href="#work"><span data-i18n="explore">Explore selected projects</span><span aria-hidden="true">↘</span></a>
+      </div>
+      <div class="hero-image-wrap">
+        <img id="heroImage" class="hero-image" src="" alt="Selected architectural project">
+        <div class="hero-image-note"><span data-i18n="selectedWork">SELECTED WORK</span><span id="heroCaption"></span></div>
+      </div>
+      <div class="hero-index">01 <span>/</span> 05</div>
+    </section>
+
+    <section id="work" class="work-section section-wrap">
+      <div class="section-heading">
+        <div><p class="eyebrow" data-i18n="portfolioEyebrow">THE PORTFOLIO</p><h2 data-i18n="workTitle">Selected projects</h2></div>
+        <p class="section-desc" data-i18n="workDesc">A selection spanning public life, homes, commerce and city-making.</p>
+      </div>
+      <div id="filters" class="filters" aria-label="Filter projects"></div>
+      <div id="projectCount" class="project-count" aria-live="polite"></div>
+      <div id="projectGrid" class="project-grid"></div>
+      <p class="source-note" data-i18n="sourceNote">Project imagery and titles adapted from the firm's portfolio presentation.</p>
+    </section>
+
+    <section id="about" class="about-section">
+      <div class="about-label"><p class="eyebrow" data-i18n="aboutEyebrow">THE PRACTICE</p><span>1990 — 2026</span></div>
+      <div class="about-body"><h2 data-i18n="aboutTitle">Architecture and planning, across scales.</h2><p id="aboutText"></p>
+        <div class="expertise-list"><span data-i18n="expertise1">Public buildings</span><span data-i18n="expertise2">Residential</span><span data-i18n="expertise3">Commercial & industry</span><span data-i18n="expertise4">Urban planning</span><span data-i18n="expertise5">International projects</span></div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact-section section-wrap">
+      <div class="contact-heading"><p class="eyebrow" data-i18n="contactEyebrow">START A CONVERSATION</p><h2 data-i18n="contactTitle">Let's talk about<br>your next project.</h2></div>
+      <div class="contact-details">
+        <a class="contact-email" href="mailto:ma-sega1@zahav.net.il">ma-sega1@zahav.net.il <span aria-hidden="true">↗</span></a>
+        <div class="contact-line"><span data-i18n="phone">Phone</span><a href="tel:+972503666373">+972 (0)50-366-6373</a></div>
+        <div class="contact-line"><span data-i18n="office">Office</span><a href="tel:+97236471473">+972-3-647-1473</a></div>
+        <div class="contact-line"><span data-i18n="address">Address</span><span>31 Lehi St., Bnei Brak 5120052, Israel</span></div>
+        <div class="contact-line"><span>Fax</span><span>+972-3-629-7878</span></div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><span>© <span id="year"></span> MARK SEGAL & DOV JOFFE</span><span data-i18n="footerNote">Architects & Town Planners</span><a href="#top" data-i18n="backTop">Back to top ↑</a></footer>
+
+  <dialog id="projectDialog" class="project-dialog" aria-labelledby="dialogTitle">
+    <button class="dialog-close" type="button" aria-label="Close project details">×</button>
+    <div class="dialog-topline"><span id="dialogCategory"></span><span id="dialogSlide"></span></div>
+    <h2 id="dialogTitle"></h2>
+    <div id="dialogGallery" class="dialog-gallery"></div>
+  </dialog>
+  <script src="script.js"></script>
+</body>
+</html>
