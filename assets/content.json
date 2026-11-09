@@ -16,6 +16,11 @@
   },
   "languages": {
     "en": {
+      "seo": {
+        "title": "Segal & Joffe | Architects & Town Planners in Israel",
+        "description": "Mark Segal & Dov Joffe Architects & Town Planners. Architecture, urban planning and selected public, residential and commercial projects in Israel and abroad.",
+        "ogLocale": "en_US"
+      },
       "navigation": {
         "work": "Projects",
         "about": "About",
@@ -84,6 +89,11 @@
       }
     },
     "he": {
+      "seo": {
+        "title": "סגל ויפה | אדריכלים ומתכנני ערים בישראל",
+        "description": "משרד מרק סגל ודב יפה, אדריכלים ומתכנני ערים מאז 1990. מבני ציבור, מגורים, מסחר, תכנון עירוני ופרויקטים בישראל ובחו״ל.",
+        "ogLocale": "he_IL"
+      },
       "navigation": {
         "work": "פרויקטים",
         "about": "אודות",

@@ -5,7 +5,7 @@ A static HTML/CSS/JavaScript portfolio prepared for GitHub Pages. No framework, 
 ## Fastest path to a GitHub Pages proof of concept
 
 1. Create a new GitHub repository (for example, `sj-architects-portfolio`).
-2. Upload **the contents of this folder** to the repository root. Make sure `index.html`, `assets/`, `styles.css`, `script.js`, `.nojekyll`, and `.github/workflows/pages.yml` are at the repository root/paths shown here. Do not upload only the ZIP as a single file.
+2. Upload **the contents of this folder** to the repository root. Make sure `index.html`, `en/`, `assets/`, `styles.css`, `script.js`, `robots.txt`, `sitemap.xml`, `CNAME`, `.nojekyll`, and `.github/workflows/pages.yml` are at the repository root/paths shown here. Do not upload only the ZIP as a single file.
 3. Commit the files to the repository's `main` branch. The workflow in `.github/workflows/pages.yml` will deploy the website automatically.
 4. In GitHub, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**.
 5. Open the **Actions** tab and wait for the “Deploy static portfolio to GitHub Pages” workflow to complete. The live URL will be shown in the workflow's deployment summary and under **Settings → Pages**.
@@ -23,6 +23,19 @@ python3 -m http.server 8000
 ```
 
 Then open http://localhost:8000.
+
+## Search engine indexing
+
+The site has separate Hebrew (`/`) and English (`/en/`) pages with localized titles, descriptions, canonical URLs, and `hreflang` links. `robots.txt` allows crawling and points search engines to `sitemap.xml`. The pages also include Open Graph metadata and `Architect` structured data.
+
+After deploying:
+
+1. Add `https://www.segal-joffe-architects.com/` as a property in [Google Search Console](https://search.google.com/search-console/). Verify ownership using a DNS TXT record with your domain provider.
+2. In Search Console, submit `https://www.segal-joffe-architects.com/sitemap.xml`.
+3. Use URL Inspection to request indexing for the Hebrew home page and `/en/`.
+4. Confirm the domain's DNS points to GitHub Pages and HTTPS is enabled in the repository's **Settings → Pages**.
+
+Submitting a sitemap or requesting indexing does not guarantee when or whether Google will show the pages in results. Search Console reports crawl and indexing status.
 
 ## Edit the site text and contact details
 
@@ -42,6 +55,8 @@ The page fetches this file at startup, so run it through the local server above 
 - Project filters for five portfolio categories
 - Project-detail modal/gallery
 - Hebrew/English interface toggle
+- Search-friendly Hebrew and English landing pages with canonical URLs and language alternates
+- Sitemap, robots directives, social metadata, and architecture firm structured data
 - About section and clickable contact links
 - Easy-to-edit English and Hebrew site copy in `assets/content.json`
 - Optimized WebP project images
