@@ -1,0 +1,156 @@
+{
+  "site": {
+    "title": "Mark Segal & Dov Joffe | Architects & Town Planners",
+    "description": "Selected projects by Mark Segal & Dov Joffe, Architects & Town Planners, established in 1990.",
+    "firmName": "MARK SEGAL & DOV JOFFE",
+    "firmRole": "ARCHITECTS & TOWN PLANNERS",
+    "foundedYear": "1990"
+  },
+  "contactDetails": {
+    "email": "ma-sega1@zahav.net.il",
+    "mobile": "+972 (0)50-366-6373",
+    "mobileLink": "+972503666373",
+    "office": "+972-3-647-1473",
+    "officeLink": "+97236471473",
+    "fax": "+972-3-629-7878"
+  },
+  "languages": {
+    "en": {
+      "navigation": {
+        "work": "Projects",
+        "about": "About",
+        "contact": "Contact",
+        "label": "Main navigation",
+        "homeLabel": "Mark Segal and Dov Joffe home"
+      },
+      "hero": {
+        "eyebrow": "ARCHITECTURE · TOWN PLANNING · EST. 1990",
+        "title": "Designing space,\nbuilding the future.",
+        "statement": "A winning combination of rich experience, comprehensive planning vision, and a commitment to architectural excellence at every scale.",
+        "intro": "Selected work by Mark Segal & Dov Joffe, Architects & Town Planners.",
+        "explore": "Explore selected projects",
+        "selectedWork": "SELECTED WORK",
+        "imageAlt": "Selected architectural project"
+      },
+      "portfolio": {
+        "eyebrow": "THE PORTFOLIO",
+        "title": "Selected projects",
+        "description": "A selection spanning public life, homes, commerce and city-making.",
+        "filterLabel": "Filter projects",
+        "categories": {
+          "all": "All projects",
+          "public": "Public buildings",
+          "residential": "Residential",
+          "commercial": "Commercial, offices & industry",
+          "planning": "Urban planning",
+          "international": "International"
+        }
+      },
+      "about": {
+        "eyebrow": "THE PRACTICE",
+        "title": "Architecture and planning, across scales.",
+        "description": "Founded in 1990, Mark Segal & Dov Joffe Architects & Town Planners designs public buildings, schools, cultural and sports facilities, senior-living environments, residential buildings and neighborhoods, commercial and industrial projects, and urban-planning programs. The firm also supports projects abroad, particularly in Romania.",
+        "clientsTitle": "Selected clients",
+        "expertise": [
+          "Public buildings",
+          "Residential",
+          "Commercial & industry",
+          "Urban planning",
+          "International projects"
+        ]
+      },
+      "contact": {
+        "eyebrow": "START A CONVERSATION",
+        "title": "Let's talk about\nyour next project.",
+        "mobile": "Phone",
+        "office": "Office",
+        "address": "Address",
+        "addressValue": "31 Lehi St., Bnei Brak 5120052, Israel",
+        "fax": "Fax",
+        "email": "Email"
+      },
+      "footer": {
+        "role": "Architects & Town Planners",
+        "backToTop": "Back to top ↑"
+      },
+      "interface": {
+        "languageButton": "עב",
+        "switchLanguage": "Switch to Hebrew",
+        "closeProject": "Close project details",
+        "openProject": "Open",
+        "portfolioSlide": "PORTFOLIO",
+        "projectCountOne": "{count} project",
+        "projectCountMany": "{count} projects"
+      }
+    },
+    "he": {
+      "navigation": {
+        "work": "פרויקטים",
+        "about": "אודות",
+        "contact": "יצירת קשר",
+        "label": "ניווט ראשי",
+        "homeLabel": "דף הבית של מרק סגל ודב יפה"
+      },
+      "hero": {
+        "eyebrow": "אדריכלות · תכנון ערים · נוסד ב-1990",
+        "title": "מתכננים את המרחב,\nבונים את העתיד.",
+        "statement": "שילוב מנצח של ניסיון עשיר, חזון תכנוני מקיף ומחויבות לאיכות אדריכלית בכל סדר גודל. כל פרויקט מובל בדיוק מקצועי, במעוף יצירתי ובחשיבה ארוכת טווח.",
+        "intro": "מבחר פרויקטים של מרק סגל ודב יפה, אדריכלים ומתכנני ערים.",
+        "explore": "לצפייה בפרויקטים",
+        "selectedWork": "פרויקטים נבחרים",
+        "imageAlt": "פרויקט אדריכלי נבחר"
+      },
+      "portfolio": {
+        "eyebrow": "הפורטפוליו",
+        "title": "פרויקטים נבחרים",
+        "description": "מבחר פרויקטים במבני ציבור, מגורים, מסחר ותכנון עירוני.",
+        "filterLabel": "סינון פרויקטים",
+        "categories": {
+          "all": "כל הפרויקטים",
+          "public": "מבני ציבור",
+          "residential": "מגורים",
+          "commercial": "משרדים, מסחר ותעשייה",
+          "planning": "תכנון עירוני",
+          "international": "פרויקטים בחו״ל"
+        }
+      },
+      "about": {
+        "eyebrow": "המשרד",
+        "title": "אדריכלות ותכנון, במגוון קני מידה.",
+        "description": "משרד ״מרק סגל – דב יפה, אדריכלים ומתכנני ערים״ נוסד בשנת 1990. המשרד עוסק בתכנון מבני ציבור, מוסדות חינוך ותרבות, מתקני ספורט, מבנים לגיל הזהב, שכונות ובנייני מגורים, פרויקטים של התחדשות עירונית, משרדים, מסחר ותעשייה, תכנון ערים וקידום תב״עות. פעילות המשרד כוללת גם תכנון וליווי פרויקטים בחו״ל, בעיקר ברומניה.",
+        "clientsTitle": "בין לקוחות המשרד",
+        "clients": "בין לקוחות המשרד נמנים משרד הבנוי והשיכון, רשות מקרקעי ישראל, עיריות אשדוד, מודיעין, נתניה, הוד השרון, חבל מודיעין, קרית אונו, המוסד לבטוח לאומי, מושבים וקיבוצים, חברות יזמיות כגון גיבור ספורט, ב.ס.ר., אמריקן קולוני, לידר נדל\"ן, אלמוג כ.ד.א.י., א. גינאדי, משהב, בהרי, צליח-רוטשילד, י.ח.דימרי, מגה אור, רמי לוי, י.ב.ניר, גלנור, ח. בראשי, י.ד.עשוש, המילטון, ל.נ.ב.ר. מהנדסים, קן התור, ועוד.",
+        "expertise": [
+          "מבני ציבור",
+          "מגורים",
+          "מסחר ותעשייה",
+          "תכנון עירוני",
+          "פרויקטים בחו״ל"
+        ]
+      },
+      "contact": {
+        "eyebrow": "נשמח לשוחח",
+        "title": "בואו נדבר על הפרויקט הבא שלכם.",
+        "mobile": "טלפון נייד",
+        "office": "משרד",
+        "address": "כתובת",
+        "addressValue": "רח׳ הלחי 31, בני ברק, 5120052, ישראל",
+        "fax": "פקס",
+        "email": "דוא״ל"
+      },
+      "footer": {
+        "role": "אדריכלים ומתכנני ערים",
+        "backToTop": "חזרה לראש העמוד ↑"
+      },
+      "interface": {
+        "languageButton": "EN",
+        "switchLanguage": "Switch to English",
+        "closeProject": "סגירת פרטי הפרויקט",
+        "openProject": "פתיחת הפרויקט",
+        "portfolioSlide": "פורטפוליו",
+        "projectCountOne": "{count} פרויקט",
+        "projectCountMany": "{count} פרויקטים"
+      }
+    }
+  }
+}

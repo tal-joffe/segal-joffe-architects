@@ -24,6 +24,18 @@ python3 -m http.server 8000
 
 Then open http://localhost:8000.
 
+## Edit the site text and contact details
+
+Open [`assets/content.json`](assets/content.json) in a text editor. It contains the text organized by section (`hero`, `portfolio`, `about`, `contact`, and `footer`) in both English (`en`) and Hebrew (`he`), along with the shared firm details and contact information.
+
+- Change the text between quotation marks, keeping the JSON punctuation and quotation marks intact.
+- Keep the English and Hebrew sections in sync if you want both language versions updated.
+- Use `\n` in a heading to start a new line.
+- Update email addresses, phone numbers, and their `mobileLink` / `officeLink` values together so the displayed details and clickable links match.
+- Project names and categories are in [`assets/projects.json`](assets/projects.json); images and layout are managed separately.
+
+The page fetches this file at startup, so run it through the local server above to preview your edits.
+
 ## What's included
 
 - Responsive one-page portfolio
@@ -31,6 +43,7 @@ Then open http://localhost:8000.
 - Project-detail modal/gallery
 - Hebrew/English interface toggle
 - About section and clickable contact links
+- Easy-to-edit English and Hebrew site copy in `assets/content.json`
 - Optimized WebP project images
 - GitHub Actions workflow that publishes the site to GitHub Pages on pushes to `main`
 
