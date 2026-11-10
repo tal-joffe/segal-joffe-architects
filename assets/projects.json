@@ -149,8 +149,8 @@
   {
     "id": "p009",
     "title": "Civic Center, Hoshida, Osaka, Japan",
-    "category": "public",
-    "categoryLabel": "Public buildings",
+    "category": "international",
+    "categoryLabel": "International",
     "cover": "assets/projects/f4d561bba4a4de86.webp",
     "images": [
       "assets/projects/f4d561bba4a4de86.webp",
@@ -233,8 +233,8 @@
   {
     "id": "p014",
     "title": "Hoshida Neighborhood, Osaka, Japan",
-    "category": "residential",
-    "categoryLabel": "Residential",
+    "category": "international",
+    "categoryLabel": "International",
     "cover": "assets/projects/6ad2da985a2cb7a6.webp",
     "images": [
       "assets/projects/6ad2da985a2cb7a6.webp",
