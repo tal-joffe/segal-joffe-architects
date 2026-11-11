@@ -45,7 +45,7 @@ Open [`assets/content.json`](assets/content.json) in a text editor. It contains 
 - Keep the English and Hebrew sections in sync if you want both language versions updated.
 - Use `\n` in a heading to start a new line.
 - Update email addresses, phone numbers, and their `mobileLink` / `officeLink` values together so the displayed details and clickable links match.
-- Project names and categories are in [`assets/projects.json`](assets/projects.json); images and layout are managed separately.
+- Project names and categories are in [`assets/projects.json`](assets/projects.json). Each project keeps its English `title` and Hebrew `titleHe`; update the appropriate field to edit a name in that language. Cards, project details, and image descriptions use the selected language automatically.
 
 The page fetches this file at startup, so run it through the local server above to preview your edits.
 

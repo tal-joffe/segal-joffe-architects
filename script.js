@@ -9,6 +9,7 @@ const grid = $("#projectGrid");
 const filters = $("#filters");
 const dialog = $("#projectDialog");
 const esc = (s) => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const projectTitle = (project) => lang === "he" ? project.titleHe || project.title : project.title;
 const copy = (path) => path.split(".").reduce((value, key) => value?.[key], path.startsWith("site.") ? content : content.languages[lang]);
 function loadJson(path, errorMessage){
   return fetch(path).then(response => {
@@ -26,9 +27,9 @@ function renderProjects(){
   const countTemplate=copy(list.length===1?"interface.projectCountOne":"interface.projectCountMany");
   $("#projectCount").textContent=countTemplate.replace("{count}",list.length);
   const categories=copy("portfolio.categories");
-  grid.innerHTML = list.map((p, i) => `<article class="project-card" tabindex="0" role="button" aria-label="${esc(copy("interface.openProject"))}: ${esc(p.title)}" data-id="${esc(p.id)}">
-    <div class="project-media"><img loading="lazy" src="${esc(assetUrl(p.cover))}" alt="${esc(p.title)}"></div>
-    <div class="project-info"><div><h3>${esc(p.title)}</h3><span class="project-open" aria-hidden="true">↗</span></div><span class="project-category">${esc(categories[p.category])}</span></div>
+  grid.innerHTML = list.map(p => `<article class="project-card" tabindex="0" role="button" aria-label="${esc(copy("interface.openProject"))}: ${esc(projectTitle(p))}" data-id="${esc(p.id)}">
+    <div class="project-media"><img loading="lazy" src="${esc(assetUrl(p.cover))}" alt="${esc(projectTitle(p))}"></div>
+    <div class="project-info"><div><h3>${esc(projectTitle(p))}</h3><span class="project-open" aria-hidden="true">↗</span></div><span class="project-category">${esc(categories[p.category])}</span></div>
   </article>`).join("");
   grid.querySelectorAll(".project-card").forEach(card => {
     const open=()=>showProject(projects.find(p=>p.id===card.dataset.id));
@@ -37,11 +38,12 @@ function renderProjects(){
 }
 function showProject(p){
   if(!p)return;
-  $("#dialogTitle").textContent=p.title;
+  const title=projectTitle(p);
+  $("#dialogTitle").textContent=title;
   $("#dialogCategory").textContent=copy(`portfolio.categories.${p.category}`);
   $("#dialogSlide").textContent=`${copy("interface.portfolioSlide")} · ${String(p.firstSlide).padStart(2,'0')}`;
   const images=(p.images&&p.images.length?p.images:[p.cover]).slice(0,12);
-  $("#dialogGallery").innerHTML=images.map((src,i)=>`<img src="${esc(assetUrl(src))}" alt="${esc(p.title)}${images.length>1?' — view '+(i+1):''}" loading="lazy">`).join("");
+  $("#dialogGallery").innerHTML=images.map((src,i)=>`<img src="${esc(assetUrl(src))}" alt="${esc(title)}${images.length>1?' — view '+(i+1):''}" loading="lazy">`).join("");
   if(typeof dialog.showModal==='function') dialog.showModal(); else dialog.setAttribute('open','');
 }
 function applyLanguage(){
@@ -88,7 +90,7 @@ Promise.all([
   content=siteContent;
   projects=projectData;
   const hero=projects.find(p=>p.category==='public')||projects[0];
-  if(hero){$("#heroImage").src=assetUrl(hero.cover);$("#heroImage").alt=content.languages[lang].hero.imageAlt;$("#heroCaption").textContent=hero.title;}
+  if(hero){$("#heroImage").src=assetUrl(hero.cover);$("#heroImage").alt=content.languages[lang].hero.imageAlt;$("#heroCaption").textContent=projectTitle(hero);}
   applyLanguage();
 }).catch(err=>{
   grid.innerHTML=`<p class="empty-state">${esc(err.message)}. Run this folder through a local web server (see README.md).</p>`;

@@ -2,6 +2,7 @@
   {
     "id": "p001",
     "title": "Netanya Municipal Theatre and Cultural Centre",
+    "titleHe": "התיאטרון העירוני ומרכז התרבות, נתניה",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/caf3e481e89069c7.webp",
@@ -27,6 +28,7 @@
   {
     "id": "p002",
     "title": "Yzhak Rabin High School, Modiin",
+    "titleHe": "תיכון יצחק רבין, מודיעין",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/1389b392e5342f5d.webp",
@@ -50,6 +52,7 @@
   {
     "id": "p003",
     "title": "Modiin City Educational, Cultural & Sport Center",
+    "titleHe": "מרכז חינוך, תרבות וספורט עירוני, מודיעין",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/e7c5b72b8cd85a47.webp",
@@ -64,6 +67,7 @@
   {
     "id": "p004",
     "title": "Ramot Sapir High School, Beer Sheba",
+    "titleHe": "תיכון רמות ספיר, באר שבע",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/631ca913459f200c.webp",
@@ -84,6 +88,7 @@
   {
     "id": "p005",
     "title": "Kidmat Habama Theater, Modiin",
+    "titleHe": "תיאטרון קדמת הבמה, מודיעין",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/9550918a36e56131.webp",
@@ -101,6 +106,7 @@
   {
     "id": "p006",
     "title": "City Mediatech, Modiin",
+    "titleHe": "הספרייה המרכזית, מודיעין",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/9b659daba94c1fa6.webp",
@@ -116,6 +122,7 @@
   {
     "id": "p007",
     "title": "Public Sport’s Club, Modiin",
+    "titleHe": "מועדון הספורט העירוני, מודיעין",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/74320377973c0bf3.webp",
@@ -132,6 +139,7 @@
   {
     "id": "p008",
     "title": "Neve Oz Sports Club, Petah Tikva",
+    "titleHe": "מועדון הספורט נווה עוז, פתח תקווה",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/de584c7282ba30db.webp",
@@ -149,6 +157,7 @@
   {
     "id": "p009",
     "title": "Civic Center, Hoshida, Osaka, Japan",
+    "titleHe": "מרכז אזרחי, הושידה, אוסקה, יפן",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/f4d561bba4a4de86.webp",
@@ -166,6 +175,7 @@
   {
     "id": "p010",
     "title": "Senior Citizens Home, Ramat Hasharon",
+    "titleHe": "בית לאזרחים ותיקים, רמת השרון",
     "category": "public",
     "categoryLabel": "Public buildings",
     "cover": "assets/projects/2da704b67f851854.webp",
@@ -184,6 +194,7 @@
   {
     "id": "p011",
     "title": "Sea View, Netanya, Israel",
+    "titleHe": "נוף לים, נתניה, ישראל",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/dc948049caa9e676.webp",
@@ -200,6 +211,7 @@
   {
     "id": "p012",
     "title": "Neve Oz, Netanya, Israel",
+    "titleHe": "נווה עוז, נתניה, ישראל",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/959bedab90da0abd.webp",
@@ -214,6 +226,7 @@
   {
     "id": "p013",
     "title": "Sea Shore, Netanya, Israel",
+    "titleHe": "חוף הים, נתניה, ישראל",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/0bee4e2173eacf8d.webp",
@@ -233,6 +246,7 @@
   {
     "id": "p014",
     "title": "Hoshida Neighborhood, Osaka, Japan",
+    "titleHe": "שכונת הושידה, אוסקה, יפן",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/6ad2da985a2cb7a6.webp",
@@ -253,6 +267,7 @@
   {
     "id": "p015",
     "title": "Urban Rehabilitation ASHKELON",
+    "titleHe": "התחדשות עירונית, אשקלון",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/8907706b5dab635a.webp",
@@ -271,6 +286,7 @@
   {
     "id": "p016",
     "title": "Em Hamoshavot, Petah Tikva, Israel",
+    "titleHe": "אם המושבות, פתח תקווה, ישראל",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/c833aba9d41a6d99.webp",
@@ -287,6 +303,7 @@
   {
     "id": "p017",
     "title": "Yahud, Israel",
+    "titleHe": "יהוד, ישראל",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/a9ca39ab6a85533d.webp",
@@ -301,6 +318,7 @@
   {
     "id": "p018",
     "title": "Emeq Braha 40 Tel Aviv",
+    "titleHe": "עמק ברכה 40, תל אביב",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/bea2df172b724cbd.webp",
@@ -315,6 +333,7 @@
   {
     "id": "p019",
     "title": "Nehama 15, Rishon leTzion",
+    "titleHe": "נחמה 15, ראשון לציון",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/c64d94a73b5733a6.webp",
@@ -329,6 +348,7 @@
   {
     "id": "p020",
     "title": "Petah Tikva, Urban Rehabilitation",
+    "titleHe": "התחדשות עירונית, פתח תקווה",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/96c8fa92ec02a7d6.webp",
@@ -343,6 +363,7 @@
   {
     "id": "p021",
     "title": "Migdalei Herzel, Rehovot",
+    "titleHe": "מגדלי הרצל, רחובות",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/f8e6d05b897b0d3a.webp",
@@ -357,6 +378,7 @@
   {
     "id": "p022",
     "title": "TAMA 38. Herzlya",
+    "titleHe": "תמ״א 38, הרצליה",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/fd2e7401a96b3aa6.webp",
@@ -371,6 +393,7 @@
   {
     "id": "p023",
     "title": "Pninat Shaul, Ashkelon, Israel",
+    "titleHe": "פנינת שאול, אשקלון, ישראל",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/606a066f622c204f.webp",
@@ -385,6 +408,7 @@
   {
     "id": "p024",
     "title": "Yir HaYain Ashkelon",
+    "titleHe": "עיר היין, אשקלון",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/cdf8cd26d93ec09d.webp",
@@ -399,6 +423,7 @@
   {
     "id": "p025",
     "title": "Pinui-Binui Tel Aviv",
+    "titleHe": "פינוי־בינוי, תל אביב",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/0c074f964e9219e5.webp",
@@ -416,6 +441,7 @@
   {
     "id": "p026",
     "title": "Azor, Israel",
+    "titleHe": "אזור, ישראל",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/47414e7301803dca.webp",
@@ -430,6 +456,7 @@
   {
     "id": "p027",
     "title": "Yir Yamim, Netanya",
+    "titleHe": "עיר ימים, נתניה",
     "category": "residential",
     "categoryLabel": "Residential",
     "cover": "assets/projects/451aa3f197016894.webp",
@@ -446,6 +473,7 @@
   {
     "id": "p028",
     "title": "Modiin-Maccabim-Reut Einav Centre: Commercial, Events & Employment",
+    "titleHe": "מרכז עינב, מודיעין־מכבים־רעות: מסחר, אירועים ותעסוקה",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/379433c063001356.webp",
@@ -462,6 +490,7 @@
   {
     "id": "p029",
     "title": "Rami Levy Shivuk HaShikma Modiin",
+    "titleHe": "רמי לוי שיווק השקמה, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/379f482a2a1ce76b.webp",
@@ -476,6 +505,7 @@
   {
     "id": "p030",
     "title": "Commercial Centre Nofim Modiin",
+    "titleHe": "מרכז מסחרי נופים, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/commercial-centre-nofim-modiin.webp",
@@ -490,6 +520,7 @@
   {
     "id": "p031",
     "title": "Modiin Motors Modiin",
+    "titleHe": "מודיעין מוטורס, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/bc2688f71ffc0f11.webp",
@@ -507,6 +538,7 @@
   {
     "id": "p032",
     "title": "Two Petrol Stations, Modiin",
+    "titleHe": "שתי תחנות דלק, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/22e3dd2793b7657c.webp",
@@ -521,6 +553,7 @@
   {
     "id": "p033",
     "title": "Rami Levy Modiin",
+    "titleHe": "רמי לוי, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/8b5a4776886581ff.webp",
@@ -539,6 +572,7 @@
   {
     "id": "p034",
     "title": "Mateh Yehuda, Har TUV B",
+    "titleHe": "מטה יהודה, הר טוב ב׳",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/73417115175fd2a9.webp",
@@ -556,6 +590,7 @@
   {
     "id": "p035",
     "title": "Beit Shemesh, Har TUV B",
+    "titleHe": "בית שמש, הר טוב ב׳",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/d8c328297def65a6.webp",
@@ -570,6 +605,7 @@
   {
     "id": "p036",
     "title": "Eurostandart Logistic Center, Modiin",
+    "titleHe": "מרכז לוגיסטי יורוסטנדרט, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/8717f340e9c3aef5.webp",
@@ -584,6 +620,7 @@
   {
     "id": "p037",
     "title": "Commercial Bldg, Moreshet, Modiin",
+    "titleHe": "מבנה מסחרי, מורשת, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/19cf08ba286525e2.webp",
@@ -598,6 +635,7 @@
   {
     "id": "p038",
     "title": "Modiin, Beit Paz",
+    "titleHe": "בית פז, מודיעין",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/9c689e798e3b0249.webp",
@@ -612,6 +650,7 @@
   {
     "id": "p039",
     "title": "Modiin, Israir Headquarters, North",
+    "titleHe": "מטה ישראייר, מודיעין — אגף צפוני",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/69b383d2111b7d25.webp",
@@ -627,6 +666,7 @@
   {
     "id": "p040",
     "title": "Modiin, Israir Headquarters, South",
+    "titleHe": "מטה ישראייר, מודיעין — אגף דרומי",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/39c038fcc2e8e2aa.webp",
@@ -641,6 +681,7 @@
   {
     "id": "p041",
     "title": "Modiin, 111",
+    "titleHe": "מודיעין 111",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/96e857842419ec8a.webp",
@@ -656,6 +697,7 @@
   {
     "id": "p042",
     "title": "Pulizer, Hadera",
+    "titleHe": "פוליצר, חדרה",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/36fdb678a39176d8.webp",
@@ -670,6 +712,7 @@
   {
     "id": "p043",
     "title": "Tzomet HaMishtara, Hadera",
+    "titleHe": "צומת המשטרה, חדרה",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/7d7da9832e1d78af.webp",
@@ -684,6 +727,7 @@
   {
     "id": "p044",
     "title": "Pinui-Binui Ashkelon",
+    "titleHe": "פינוי־בינוי, אשקלון",
     "category": "commercial",
     "categoryLabel": "Commercial, offices & industry",
     "cover": "assets/projects/2c54512f0f438f12.webp",
@@ -698,6 +742,7 @@
   {
     "id": "p045",
     "title": "Master Plan South-West Rehovot",
+    "titleHe": "תוכנית מתאר לדרום־מערב רחובות",
     "category": "planning",
     "categoryLabel": "Urban planning",
     "cover": "assets/projects/d39bcc9100eadeba.webp",
@@ -712,6 +757,7 @@
   {
     "id": "p046",
     "title": "Master Plan Lod City Extension",
+    "titleHe": "תוכנית מתאר להרחבת העיר לוד",
     "category": "planning",
     "categoryLabel": "Urban planning",
     "cover": "assets/projects/1ed302b8a3276189.webp",
@@ -726,6 +772,7 @@
   {
     "id": "p047",
     "title": "Master Plan 7th Borough’ Ashdod",
+    "titleHe": "תוכנית מתאר לרובע ז׳, אשדוד",
     "category": "planning",
     "categoryLabel": "Urban planning",
     "cover": "assets/projects/5913f98418c86777.webp",
@@ -740,6 +787,7 @@
   {
     "id": "p048",
     "title": "Comercial & Employment Zone - Moshav Shilat",
+    "titleHe": "אזור מסחר ותעסוקה, מושב שילת",
     "category": "planning",
     "categoryLabel": "Urban planning",
     "cover": "assets/projects/41b65deeaf45483a.webp",
@@ -754,6 +802,7 @@
   {
     "id": "p049",
     "title": "Housing Zone Moshav Shilat",
+    "titleHe": "אזור מגורים, מושב שילת",
     "category": "planning",
     "categoryLabel": "Urban planning",
     "cover": "assets/projects/ff444bd3946dc868.webp",
@@ -768,6 +817,7 @@
   {
     "id": "p050",
     "title": "OASIS by PROAKTIV, Iasi, Romania",
+    "titleHe": "אואזיס מבית PROAKTIV, יאשי, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/478d0900a1cd9453.webp",
@@ -784,6 +834,7 @@
   {
     "id": "p051",
     "title": "Ghencea Boulevard, Bucharest, Romania",
+    "titleHe": "שדרות גנצ׳אה, בוקרשט, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/20fa02cf1c8eb218.webp",
@@ -800,6 +851,7 @@
   {
     "id": "p052",
     "title": "Afumati Road, Voluntari, Romania",
+    "titleHe": "דרך אפומאטי, וולונטארי, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/45efd6d5244c9b6a.webp",
@@ -819,6 +871,7 @@
   {
     "id": "p053",
     "title": "Commercial Center, Afumati Road, Voluntari, Romania",
+    "titleHe": "מרכז מסחרי, דרך אפומאטי, וולונטארי, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/59bf0bb1385eafe3.webp",
@@ -833,6 +886,7 @@
   {
     "id": "p054",
     "title": "Pipera, Voluntari, Romania",
+    "titleHe": "פיפרה, וולונטארי, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/2913df39c251e7e8.webp",
@@ -849,6 +903,7 @@
   {
     "id": "p055",
     "title": "Ploiesti, Romania",
+    "titleHe": "פלוישט, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/69039c4890d9d928.webp",
@@ -863,6 +918,7 @@
   {
     "id": "p056",
     "title": "Plumbuita Lake, Bucharest, Romania",
+    "titleHe": "אגם פלומבויטה, בוקרשט, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/b86bb8a53a0aeb8c.webp",
@@ -881,6 +937,7 @@
   {
     "id": "p057",
     "title": "Plumbuita Lake Bucharest, Romania",
+    "titleHe": "אגם פלומבויטה, בוקרשט, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/1f9df57dcd6883a3.webp",
@@ -895,6 +952,7 @@
   {
     "id": "p058",
     "title": "Lobby, Plumbuita Lake, Bucharest, Romania",
+    "titleHe": "מבואה, אגם פלומבויטה, בוקרשט, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/afde06286c68ade9.webp",
@@ -911,6 +969,7 @@
   {
     "id": "p059",
     "title": "Living Room, Plumbuita Lake, Bucharest, Romania",
+    "titleHe": "סלון, אגם פלומבויטה, בוקרשט, רומניה",
     "category": "international",
     "categoryLabel": "International",
     "cover": "assets/projects/fb7aa71195a5d2ac.webp",

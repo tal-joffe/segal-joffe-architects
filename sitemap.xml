@@ -5,12 +5,12 @@
     <loc>https://www.segal-joffe-architects.com/</loc>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.segal-joffe-architects.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.segal-joffe-architects.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.segal-joffe-architects.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.segal-joffe-architects.com/"/>
   </url>
   <url>
     <loc>https://www.segal-joffe-architects.com/en/</loc>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.segal-joffe-architects.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.segal-joffe-architects.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.segal-joffe-architects.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.segal-joffe-architects.com/"/>
   </url>
 </urlset>
